@@ -1,0 +1,10 @@
+* cl-primality
+
+Testing if numbers are prime.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/smithzvk/cl-primality.git   |
+| commit  | 144dc80  |
+| systems | cl-primality |
+|---------+-------------------------------------------|
+
